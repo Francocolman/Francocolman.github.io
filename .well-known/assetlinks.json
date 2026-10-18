@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.francocolman.twa",
-    "sha256_cert_fingerprints": ["6D:9A:DD:8E:0E:DE:B3:56:04:00:0B:99:6F:B3:9C:6D:5A:71:E3:45:22:BC:5E:44:6F:87:3E:52:DA:23:6C:4F"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.francocolman.twa",
+        "sha256_cert_fingerprints": ["80:EB:FE:D9:7C:11:C1:8B:FC:D1:94:F6:3D:62:09:30:FD:0E:16:21:78:05:9F:CF:9B:3F:5A:6C:08:AD:76:51"]
+      }
+    }]
